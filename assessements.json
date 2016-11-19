@@ -1,0 +1,318 @@
+{
+  "assessements": [
+    {
+      "topic": "Trabalho  I",
+      "summary": "Fazer alguma atividade que será apresentada sobre o Cap. 1 da UFES",
+      "evaluatorMaxRating": 5,
+      "audiencerMaxRating": 5,
+      "minRatingIncrement": 0.5,
+      "evaluators": [
+        {
+          "name": "Prof. Leandro"
+        }
+      ],
+      "presentations": [
+        {
+          "title": "Alguma coisa do cap 1",
+          "presenters": [
+            {
+              "name": "Aluno X",
+              "enrollment": 1234
+            }
+          ],
+          "evaluations": [
+            {
+              "evaluationTime": 1475235683317,
+              "criteria": {
+                "weighted": true,
+                "size": 4,
+                "criterionNames": [
+                  "Impacto",
+                  "Fluidez",
+                  "Domínio do Tema",
+                  "Domínio do tempo"
+                ],
+                "criteriaWeights": [
+                  0.1,
+                  0.2,
+                  0.5,
+                  0.2
+                ]
+              },
+              "evaluator": {
+                "name": "Prof. Leandro"
+              },
+              "criterionRating": [
+                2.5,
+                4,
+                2,
+                2.5
+              ],
+              "rating": 2.55
+            }
+          ],
+          "evaluatorRating": 2.55,
+          "audienceRating": 1.5
+        },
+        {
+          "title": "Alguma coisa do cap 2",
+          "presenters": [
+            {
+              "name": "Aluno Y",
+              "enrollment": 2345
+            }
+          ],
+          "evaluations": [
+            {
+              "evaluationTime": 1475235683317,
+              "criteria": {
+                "weighted": true,
+                "size": 4,
+                "criterionNames": [
+                  "Impacto",
+                  "Fluidez",
+                  "Domínio do Tema",
+                  "Domínio do tempo"
+                ],
+                "criteriaWeights": [
+                  0.1,
+                  0.2,
+                  0.5,
+                  0.2
+                ]
+              },
+              "evaluator": {
+                "name": "Prof. Leandro"
+              },
+              "criterionRating": [
+                2.5,
+                0,
+                2,
+                4.5
+              ],
+              "rating": 2.15
+            }
+          ],
+          "evaluatorRating": 2.15,
+          "audienceRating": 1
+        },
+        {
+          "title": "Alguma coisa do cap 3",
+          "presenters": [
+            {
+              "name": "Aluno Z",
+              "enrollment": 3456
+            }
+          ],
+          "evaluations": [
+            {
+              "evaluationTime": 1475235683317,
+              "criteria": {
+                "weighted": true,
+                "size": 4,
+                "criterionNames": [
+                  "Impacto",
+                  "Fluidez",
+                  "Domínio do Tema",
+                  "Domínio do tempo"
+                ],
+                "criteriaWeights": [
+                  0.1,
+                  0.2,
+                  0.5,
+                  0.2
+                ]
+              },
+              "evaluator": {
+                "name": "Prof. Leandro"
+              },
+              "criterionRating": [
+                0,
+                3.5,
+                0.5,
+                0
+              ],
+              "rating": 0.95
+            }
+          ],
+          "evaluatorRating": 0.95,
+          "audienceRating": 2
+        }
+      ],
+      "audienceRanking": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    },
+        {
+      "topic": "Um outro trabalho",
+      "summary": "Fazer alguma atividade que será apresentada sobre o Cap. 1 da UFES",
+      "evaluatorMaxRating": 5,
+      "audiencerMaxRating": 5,
+      "minRatingIncrement": 0.5,
+      "evaluators": [
+        {
+          "name": "Prof. Leandro"
+        }
+      ],
+      "presentations": [
+        {
+          "title": "Alguma coisa do cap 1",
+          "presenters": [
+            {
+              "name": "Aluno X",
+              "enrollment": 1234
+            }
+          ],
+          "evaluations": [
+            {
+              "evaluationTime": 1475235683317,
+              "criteria": {
+                "weighted": true,
+                "size": 4,
+                "criterionNames": [
+                  "Impacto",
+                  "Fluidez",
+                  "Domínio do Tema",
+                  "Domínio do tempo"
+                ],
+                "criteriaWeights": [
+                  0.1,
+                  0.2,
+                  0.5,
+                  0.2
+                ]
+              },
+              "evaluator": {
+                "name": "Prof. Leandro"
+              },
+              "criterionRating": [
+                2.5,
+                4,
+                2,
+                2.5
+              ],
+              "rating": 2.55
+            }
+          ],
+          "evaluatorRating": 2.55,
+          "audienceRating": 1.5
+        },
+        {
+          "title": "Alguma coisa do cap 2",
+          "presenters": [
+            {
+              "name": "Aluno Y",
+              "enrollment": 2345
+            }
+          ],
+          "evaluations": [
+            {
+              "evaluationTime": 1475235683317,
+              "criteria": {
+                "weighted": true,
+                "size": 4,
+                "criterionNames": [
+                  "Impacto",
+                  "Fluidez",
+                  "Domínio do Tema",
+                  "Domínio do tempo"
+                ],
+                "criteriaWeights": [
+                  0.1,
+                  0.2,
+                  0.5,
+                  0.2
+                ]
+              },
+              "evaluator": {
+                "name": "Prof. Leandro"
+              },
+              "criterionRating": [
+                2.5,
+                0,
+                2,
+                4.5
+              ],
+              "rating": 2.15
+            }
+          ],
+          "evaluatorRating": 2.15,
+          "audienceRating": 1
+        },
+        {
+          "title": "Alguma coisa do cap 3",
+          "presenters": [
+            {
+              "name": "Aluno Z",
+              "enrollment": 3456
+            }
+          ],
+          "evaluations": [
+            {
+              "evaluationTime": 1475235683317,
+              "criteria": {
+                "weighted": true,
+                "size": 4,
+                "criterionNames": [
+                  "Impacto",
+                  "Fluidez",
+                  "Domínio do Tema",
+                  "Domínio do tempo"
+                ],
+                "criteriaWeights": [
+                  0.1,
+                  0.2,
+                  0.5,
+                  0.2
+                ]
+              },
+              "evaluator": {
+                "name": "Prof. Leandro"
+              },
+              "criterionRating": [
+                0,
+                3.5,
+                0.5,
+                0
+              ],
+              "rating": 0.95
+            }
+          ],
+          "evaluatorRating": 0.95,
+          "audienceRating": 2
+        }
+      ],
+      "audienceRanking": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          1,
+          0
+        ]
+      ]
+    }
+  ]
+}
