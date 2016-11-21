@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">Lesson 4.1 - rateURmate </string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_evaluation">EvaluationActivity</string>
+
+    <string name="default_user">admin@rateutmate.com</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_guest_sign_in">Take part as a guest</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_assessment">Assessments</string>
+    <string name="title_activity_presentation">Presentations</string>
+    <string name="prompt_pinNumber">Presentation PIN number</string>
+    <string name="title_activity_login_activity_deleted">Sign in</string>
+
+</resources>
