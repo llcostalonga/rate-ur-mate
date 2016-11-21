@@ -55,7 +55,7 @@
           "audienceRating": 1.5
         },
         {
-          "title": "Alguma coisa do cap 2",
+          "title": "Alguma coisa do cap 2 (T1)",
           "presenters": [
             {
               "name": "Aluno Y",
@@ -97,7 +97,7 @@
           "audienceRating": 1
         },
         {
-          "title": "Alguma coisa do cap 3",
+          "title": "Alguma coisa do cap 3 (T1)",
           "presenters": [
             {
               "name": "Aluno Z",
@@ -170,7 +170,7 @@
       ],
       "presentations": [
         {
-          "title": "Alguma coisa do cap 1",
+          "title": "Alguma coisa do cap 1 (T2)",
           "presenters": [
             {
               "name": "Aluno X",
@@ -212,7 +212,7 @@
           "audienceRating": 1.5
         },
         {
-          "title": "Alguma coisa do cap 2",
+          "title": "Alguma coisa do cap 2 (T2)",
           "presenters": [
             {
               "name": "Aluno Y",
@@ -254,7 +254,7 @@
           "audienceRating": 1
         },
         {
-          "title": "Alguma coisa do cap 3",
+          "title": "Alguma coisa do cap 3 (T2)",
           "presenters": [
             {
               "name": "Aluno Z",
